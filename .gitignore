@@ -9,6 +9,7 @@ dist
 build
 private
 restats
+data/futures/roll_calendars_csv
 
 # Coverage reports
 .coverage
